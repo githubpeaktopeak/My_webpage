@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/githubpeaktopeak/My_webpag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### AWESOME!!!!!!!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # throw it around everywhere
 ## It's MAGICAL!!!!!!!!!!!!!
-### We special powers for bad!!!!!!!!!!!!!!!!!
+### We use special powers for bad!!!!!!!!!!!!!!!!!
 
 - Bulleted
 - List
