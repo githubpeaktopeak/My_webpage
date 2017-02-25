@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Confetti
 
 You can use the [editor on GitHub](https://github.com/githubpeaktopeak/My_webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# throw it around everywhere
+## It's MAGICAL!!!!!!!!!!!!!
+### We special powers for bad!!!!!!!!!!!!!!!!!
 
 - Bulleted
 - List
