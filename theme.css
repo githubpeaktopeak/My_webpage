@@ -24,6 +24,7 @@ nav li {
 }
 
 li {
+ margin: 20px;
  display: inline-block;
  vertical-align: top;
 }
